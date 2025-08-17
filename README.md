@@ -1,7 +1,4 @@
 # grzybiarz-privacy
-Polityka Prywatności Grzybiarza
-
-
 <!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -21,8 +18,8 @@ Polityka Prywatności Grzybiarza
   <p>Użytkownik może w każdej chwili usunąć dane zapisane w aplikacji poprzez funkcję „Usuń wszystkie pinezki”.</p>
   <p>Właścicielem aplikacji i administratorem danych jest:</p>
   <p>
-    Rafał [Twoje nazwisko]<br>
-    [Twój adres e-mail kontaktowy]<br>
+    Rafał Chorubski<br>
+    r.chorubski@gmail.com<br>
     Polska
   </p>
 </body>
