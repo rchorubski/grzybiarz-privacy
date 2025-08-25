@@ -3,7 +3,7 @@
 <html lang="pl">
 <head>
   <meta charset="UTF-8">
-  <title>Polityka prywatności – Grzybiarz</title>
+  
 </head>
 <body>
   <h1>Polityka prywatności – aplikacja Grzybiarz</h1>
