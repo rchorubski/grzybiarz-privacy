@@ -11,6 +11,7 @@
   <p>Jedynymi danymi zapisywanymi lokalnie na urządzeniu są:</p>
   <ul>
     <li>lokalizacje grzybów dodane przez użytkownika,</li>
+    <li>robienie i przeglądanie zdjęć w galerii,</li>
     <li>ustawienia aplikacji (np. tryb mapy).</li>
   </ul>
   <p>Dane te nie są przesyłane ani udostępniane osobom trzecim.</p>
